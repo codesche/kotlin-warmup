@@ -39,7 +39,6 @@ Kotlin 문법과 실무 패턴을 익히기 위한 일일 연습 프로젝트.
 - Decorator Pattern
 - Sealed Class를 활용한 Result 타입
 
-## 의존성
-
-- Kotlin Standard Library
-- kotlinx-coroutines-core (코루틴 예제용)
+### 가장 많이 등장한 단어 찾기 (10/25)
+- groupingBy + eachCount()로 빈도 계산
+- maxWith 또는 sortedWith로 조건 정렬
