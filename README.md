@@ -42,3 +42,12 @@ Kotlin 문법과 실무 패턴을 익히기 위한 일일 연습 프로젝트.
 ### 가장 많이 등장한 단어 찾기 (10/25)
 - groupingBy + eachCount()로 빈도 계산
 - maxWith 또는 sortedWith로 조건 정렬
+
+### 가장 자주 등장한 단어 Top N 출력하기 (10/26)
+
+| 개념                               | 설명                    |
+| -------------------------------- | --------------------- |
+| `groupingBy` + `eachCount()`     | Kotlin의 대표적인 빈도 계산 조합 |
+| `compareByDescending` + `thenBy` | 다중 정렬 조건 설정           |
+| `take(n)`                        | 상위 N개만 추출             |
+| `entries`                        | Map → List로 변환해 정렬 가능 |
